@@ -1,0 +1,12 @@
+#use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MTGestureLock_Example' do
+  pod 'MTGestureLock', :path => '../'
+
+  target 'MTGestureLock_Tests' do
+    inherit! :search_paths
+
+  end
+end

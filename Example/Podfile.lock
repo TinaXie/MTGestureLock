@@ -1,0 +1,16 @@
+PODS:
+  - MTGestureLock (0.1.0)
+
+DEPENDENCIES:
+  - MTGestureLock (from `../`)
+
+EXTERNAL SOURCES:
+  MTGestureLock:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTGestureLock: 7366573027c99d61180c204cc048740ad5467582
+
+PODFILE CHECKSUM: 7086106642e650240e8feec8f2278f2ac6cd9b4d
+
+COCOAPODS: 1.5.3
